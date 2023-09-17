@@ -1,5 +1,12 @@
 // Write your code here!
-document.getElementById('main').remove();
-const newHeader = document.createElement('h1');
+//!Previous exercise results
+// document.getElementById('main').remove();
+// const newHeader = document.createElement('h1');
+// newHeader.id = 'victory'
+// newHeader.innerHTML = "Kimberly is the champion"
+
+
+document.getElementById('main').remove()
+const newHeader = document.createElement('h1')
 newHeader.id = 'victory'
-newHeader.innerHTML = "Kimberly is the champion"
+newHeader.innerHTML = "Thalia is the champion"
